@@ -1,0 +1,1 @@
+a funny discord self botting thing i made. i don't know why i put so much effort into this. all running on nodejs/bun libraries too!! enjoy :3
