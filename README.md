@@ -1,1 +1,1 @@
-a funny discord self botting thing i made. i don't know why i put so much effort into this. all running on nodejs/bun libraries too!! enjoy :3
+a funny discord self botting thing i made. its purpose is simple, allow you to act like you can be summoned with a special phrase or two, or three or even more (when i finish it)! i don't know why i put so much effort into this. all running on nodejs/bun libraries too (as of writing at least)!! enjoy :3
